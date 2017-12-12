@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
-<h1> Materias ae </h1>
+	<head>
+		<link rel='stylesheet' type='text/css' href='all.css'>
+		<title>Facshelp Matérias</title>
+	</head>
 <body>
-<?php
-	echo "<a href=http://localhost/php/geometria_analitica.php>Geometria Analítica</a>";
-	echo "<br>";
-	echo "Calculo 2";
-?>
-</body>
+
+	<div class='container'>
+
+	<header>
+		<h1>Disciplinas</h1>
+	</header>
+
 </html>
