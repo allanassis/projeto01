@@ -19,7 +19,7 @@
 	<nav class='navbar navbar-inverse'>
 		<div class='container-fluid'>
 			<div class='navbar-head'>
-				<a class='navbar-brand' href='#'>Facshelp</a>
+				<a class='navbar-brand' href='newsite.php'>Facshelp</a>
 			</div>
 		<ul class='nav navbar-nav'>
 			<li class='active'><a href='#'>Home</a></li>
