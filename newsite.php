@@ -37,9 +37,22 @@
 	</nav>
 	<article>
 		<h1 class='article-title'>Seja muito bem vindo</h1>
-		<p class='article-text'><img id='prova' src='todeprova.jpg' alt='to de prova' height='212' width='180'>Olá estudante, se você acessou esse site é porque necessita de ajuda em algo relacionado ao seu curso...<br> Tudo bem, nós te ajudamos.. basta clicar no botão 'disciplinas', escolher a matéria e tirar suas dúvidas.<br> Muito obrigado pela preferência</p>
+		<p class='article-text'>Olá estudante, se você acessou esse site é porque necessita de ajuda em algo relacionado ao seu curso...<br> Tudo bem, nós te ajudamos.. basta clicar no botão 'disciplinas', escolher a matéria e tirar suas dúvidas.<br> Muito obrigado pela preferência</p>
+		<div class='row'>
+			<div class="col-sm-4" style="background-color: lavender;height: 100px;">
+				 <h3>Coluna 1</h3>
+				<p>Testando paragrafo do div testando para colocar artigos</p>
+			</div>
+			<div class='col-sm-4' style='background-color: black;height: lem;'>
+				<h3>Geometria Analítica - Espaço vetorial</h3>
+				<p>Espaço vetorial é um espaço que tem bla bla bla....</p>
+			</div>
+			<div class='col-sm-4' style='background-color: white;height: lam;'>
+				<h3>Algebra Linear - Vetores</h3>
+				<p>Vetores são setas que fodem com as notas de quem estageia e não estuda bla bla bla...</p>
+			</div>
+		</div>
 	</article>
-
 	<footer>Copyright &copy; LSCF.com</footer>
 
 </body>
