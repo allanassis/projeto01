@@ -28,11 +28,12 @@
 				<li><a href='#'>Algebra Linear</a></li>
 				<li><a href='#'>Calculo 2</a></li>
 				<li><a href='#'>Geometria Analítica</a></li>
+				<li><a href='materias.php'>Mais..</a></li>
 				</ul>
 			</li>
 			<li><a href='#'>Forum</a></li>
 			<li><a href='#'>Contato</a></li>
-			<li><a href='#'>Etc</a></li>
+			<li><a href='login.php'>Login</a></li>
 		</ul>
 	</nav>
 	<article>
