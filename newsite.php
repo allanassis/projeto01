@@ -28,13 +28,28 @@
 				<li><a href='#'>Algebra Linear</a></li>
 				<li><a href='#'>Calculo 2</a></li>
 				<li><a href='#'>Geometria Analítica</a></li>
+				<li class='divider'></li>
 				<li><a href='materias.php'>Mais..</a></li>
 				</ul>
 			</li>
 			<li><a href='#'>Forum</a></li>
 			<li><a href='#'>Contato</a></li>
-			<li><a href='login.php'>Login</a></li>
 		</ul>
+		<form class='navbar-form navbar-left' action='/action_page.php'>
+			<div class='input-group'>
+				<input type='text' class='form-control' placeholder='O que procuras?'>
+				<div class='input-group-btn'>
+					<button class='btn btn-default' type='submit'>
+					<i class='glyphicon glyphicon-search'></i>
+					</button>
+				</div>
+			</div>
+		</form>
+		<ul class='nav navbar-nav navbar-right'>
+			<li><a href='#'><span class='glyphicon glyphicon-user'></span> Cadastrar-se</a></li>
+			<li><a href='login.php'><span class='glyphicon glyphicon-log-in'></span> Login</a></li>
+		</ul>
+	</div>
 	</nav>
 	<article>
 		<h1 class='article-title'>Seja muito bem vindo</h1>
@@ -50,7 +65,7 @@
 			</div>
 			<div class='col-sm-4' style='background-color: white;height: lam;'>
 				<h3>Algebra Linear - Vetores</h3>
-				<p>Vetores são setas que fodem com as notas de quem estageia e não estuda bla bla bla...</p>
+				<p>Vetores são setas que fodem com as notas bla bla bla...</p>
 			</div>
 		</div>
 	</article>
