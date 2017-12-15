@@ -26,17 +26,33 @@
 			<ul class='dropdown-menu'>
 				<li><a href='#'>Algebra Linear</a></li>
 				<li><a href='#'>Calculo 2</a></li>
-				<li><a href='#'>Geometria Analítica</a></li>
+				<li><a href='geometria_analitica.php'>Geometria Analítica</a></li>
+				<li class='divider'></li>
+				<li><a href='materias.php'>Mais..</a></li>
 			</ul>
 			</li>
 			<li><a href='#'>Forum</a></li>
 			<li><a href='#'>Contato</a></li>
 		</ul>
+		<form class='navbar-form navbar-left' action='/action_page.php'>
+			<div class='input-group'>
+				<input type='text' class='form-control' placeholder='O que procuras?'>
+				<div class='input-group-btn'>
+					<button class='btn btn-default' type='submit'>
+					<i class='glyphicon glyphicon-search'></i>
+					</button>
+				</div>
+			</div>
+		</form>
 		<ul class='nav navbar-nav navbar-right'>
 			<li><a href='#'><span class='glyphicon glyphicon-user'></span> Sign Up</a></li>
 			<li><a href='login.php'><span class='glyphicon glyphicon-log-in'></span> Login</a></li>
 		</ul>
 	</nav>
+	<article>
+		<h5><a href='geometria_analitica.php'>Geometria Analítica</a></h5>
+		<h5>Calculo 2</h5>
+	</article>
 </body>
 
 </html>
