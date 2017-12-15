@@ -45,11 +45,6 @@ footer {
 	border-top: 2px solid black;
 }
 
-.text-header{
-	font-family: spectral sc, serif;
-	font-size: 45px;
-}
-
 .article-title{
 	font-family: Barlow Semi Condensed, sans-serif;
 	color: white;
@@ -64,10 +59,6 @@ footer {
 	height: 300px;
 }
 
-.article2-title{
-	color: white;
-}
-
 .article3{
 	border-top: 2px solid black;
 	width: 100%;
@@ -78,4 +69,10 @@ footer {
 	width: 180px;
 	height: 212px;
 	float: right;
+}
+
+.article-text{
+	font-size: 15px;
+	font-color: #DCDCDC;
+	font-family: spectral sc, serif;
 }

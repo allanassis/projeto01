@@ -60,8 +60,8 @@
 	</article>
 
 	<article class='article2'>
-		<h2 class='article2-title'>Desenvolvimento</h2>
-		<p><br><br><br>Nosso site foi criado com o objetivo de ajudar os alunos de engenharia, que possuem dificuldades,<br> ou querem estudar para as avaliações utilizando nossos exercícios retirados de provas de semestres passados<br>Fique a vontade e bons estudos :D<br></p>
+		<h2 class='article-title'>Desenvolvimento</h2>
+		<p class='article-text'><br><br><br>Nosso site foi criado com o objetivo de ajudar os alunos de engenharia, que possuem dificuldades,<br> ou querem estudar para as avaliações utilizando nossos exercícios retirados de provas de semestres passados<br>Fique a vontade e bons estudos :D<br></p>
 	</article>
 
 	<article class='article3'>
