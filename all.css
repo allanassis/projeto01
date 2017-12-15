@@ -76,3 +76,15 @@ footer {
 	font-color: #DCDCDC;
 	font-family: spectral sc, serif;
 }
+
+.link-assuntos{
+	text-decoration: none;
+	font-family: spectral sc, serif;
+	color: white;
+	font-size: 15px;
+}
+
+.article-assuntos{
+	width: 100%;
+	height: lem;
+}

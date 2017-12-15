@@ -53,9 +53,19 @@
 	</div>
 	</nav>
 
-	<article class='article1'>
+	<article class='article-assuntos'>
 		<h2 class='article-title'>Geometria Analítica e Algebra Linear<h2>
-		<p class='article-text'>Aqui que Vão estar os links com os assuntos<br></p>
+		<h4>Assuntos:</h4>
+		<p class='link-assuntos'>
+		<a href='#'>Vetores</a><br>
+		<a href='#'>Tipos de Vetores</a><br>
+		<a href='#'>Tratamento Algebrico para vetores</a><br>
+		<a href='#'>Propriedades Operatórias</a><br>
+		<a href='#'>Módulo de um vetor</a><br>
+		<a href='#'>Versor</a><br>
+		<a href='#'>Produto Escalar</a><br>
+		<a href='#'>Projeção</a><br>
+		<a href='#'>Produto Vetorial</a><br></p>
 	</article>
 </body>
 </html>
