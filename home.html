@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<!-- Definindo a codificação do texto -->
+	<meta charset="utf-8">
+
+	<!-- Definindo a visualição da pagina em dispositivos -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Titulo da página -->
+	<title>SITE</title>
+
+	<!-- Importando os estilos do bootstrap -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<!-- Importando a biblioteca de Javascript, JQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Importando bootstrap novamente -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!-- Importando os estilos css de um arquivo .css externo -->
+	<link rel='stylesheet' type='text/css' href='home.css'>
+
+</head>
+<body>
+	<!-- Colocando um div como o container geral do body -->
+	<div class='container'>
+
+		<!-- Inserindo a barra de navegação com ajuda do bootstrap -->
+		<nav class="navbar navbar-inverse navbar-fixed-top navbar-default">
+			<div class='container-fluid'>
+				<div class='navbar-header'>
+					<button type='button' class='navbar-toggle' data-toggle='collapse' data-target='#myNavbar'>
+						<span class='icon-bar'></span>
+						<span class='icon-bar'></span>
+						<span class='icon-bar'></span>
+					</button>
+					<a class='navbar-brand' href='home.php'>FACSHELP</a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav">
+						<li><a href='home.php'>Home</a>
+						<li class='dropdown'>
+							<a class="dropdown-toggle" data-toggle='dropdown' href='#'>Disciplinas <span class='caret'></span></a>
+							<ul class='dropdown-menu'>
+								<li><a href='calculo2.php'>Calculo 2</a></li>
+								<li><a href='geometriaa.php'>Geometria Analítica</a></li>
+								<li><a href='sistemasdigitais.php'>Sistemas Digitais</a></li>
+							</ul>
+						</li>
+						<li><a href='forum.php'>Forum</a></li>
+						<li><a href='contato.php'>Contato</a></li>
+					</ul>
+					
+					<!-- Inserindo na barra de navegação, os links de login e cadastro -->
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href='registarse.php'><span class="glyphicon glyphicon-user"></span> Registrar-se</a></li>
+						<li><a href='login.php'><span class="glyphicon glyphicon-log-in"></span> Entrar</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	
+	<!-- Finalizando a barra de navegação e iniciando o header -->
+	<header>
+	
+		<!-- Colocando um div container no header -->
+		<div class='container'>
+		</div>
+	</header>
+
+	<!-- adicionando div para o resto do conteudo da pagina -->
+	<div class='resto'>
+		
+	</div>
+
+	</div>
+</body>
+</html>
